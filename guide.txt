@@ -1,0 +1,6 @@
+1/  pour l'installation :npm install
+2/ng serve
+3/pour le test: 
+                localhost:4200/principal
+                localhost:4200/home
+                localhost:4200/images
